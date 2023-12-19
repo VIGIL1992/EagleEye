@@ -1,9 +1,14 @@
+<hr>
 <!--Start Brand One Section -->     
 <div class="brand-one">
         <div class="container">
             <div class="row">
+            
                 <div class="col-xl-12">
-                    <div class="brand-one-carousel owl-carousel">
+                <!-- <h4 class="sub-title-shape-left section_title-subheading text-center">See Our Partners</h4> -->
+                <h1 class="section-title font-weight-bold text-center mb-5">Our Partners</h1>
+                
+                    <div class="brand-one-carousel owl-carousel mb-4">
                         <div class="single_brand_item">
                             <a href="#"><img src="images/brand/brand-1-1.png" alt="brand"></a>
                         </div>

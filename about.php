@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript">
+    </script>
+<meta http-equiv="content-type" content="text/html;" charset="utf-8">
+<title>About Us |  Eagle Eye | Electrical Equipment & Tools | Get electrical equipment and Tools for cheap price from Eagle Eye</title>
+
+<meta name="twitter:title" content="Eagle Eye - Middleast largest distributor of electrical goods">
+
 <?php
     include 'includes/header.php'; 
     include 'includes/navbar.php'; 
@@ -7,7 +17,7 @@
         <div class="container">
             <h2>About Us</h2>
             <ul class="thm-breadcrumb">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><span>></span></li>
                 <li><span>About Us</span></li>
             </ul>
@@ -37,7 +47,7 @@
                             <p class="about-two-title-text">Eagle Eye is one of the Leading Trading companies established in 2019, supplying various 
                                 Electrical Equipment, Tools and different other Accessories. </p>
                         </div>
-                        <div class="about-tow-experience-years style-two">
+                        <!-- <div class="about-tow-experience-years style-two">
                             <div class="about-tow-experience-years-icon">
                                 <span class="flaticon-medal"></span>
                             </div>
@@ -45,13 +55,19 @@
                                 <h2>25</h2>
                                 <p>Years of Experience</p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="about-two-bottom-content">
                             <p class="about-two-bottom-text">We carry a wide range of quality materials to meet industry requirements.  Because 
                                 of our dedication to quality product and excellent service, our firm has carved itself a position in the Middle 
                                 East electrical industry, with an enviable clientele all across the region.</p>
+                                <br>
+                                <p class="about-two-bottom-text">We carry a wide range of quality materials to meet industry requirements.  Because 
+                                of our dedication to quality product and excellent service, our firm has carved itself a position in the Middle 
+                                East electrical industry, with an enviable clientele all across the region.</p>
                             <!-- <h3>John Franclin - <span>CEO & Founder</span></h3> -->
                         </div>
+
+                       
                         <!-- <div class="about-two-btn">
                             <a href="" class="theme-btn">About Us</a>
                         </div> -->
@@ -70,7 +86,7 @@
                     <!--Funfacts One Single-->
                     <div class="funfacts-one-single wow fadeInUp" data-wow-delay="100ms">
                         <div class="icon">
-                            <span class="flaticon-like"></span>
+                            <span class="far fa-plug"></span>
                         </div>
                         <div class="content count-box">
                             <h2>
@@ -84,7 +100,7 @@
                     <!--Funfacts One Single-->
                     <div class="funfacts-one-single wow fadeInUp" data-wow-delay="200ms">
                         <div class="icon">
-                            <span class="flaticon-architect"></span>
+                            <span class="far fa-smile"></span>
                         </div>
                         <div class="content count-box">
                             <h2>
@@ -98,8 +114,7 @@
                     <!--Funfacts One Single-->
                     <div class="funfacts-one-single wow fadeInUp" data-wow-delay="300ms">
                         <div class="icon">
-                            <!-- <span class="flaticon-medal"></span> -->
-                            <i class="fal fa-users fa-lg" style="color: #f22536; "></i>
+                            <span class="far fa-user-tie"></span>
                         </div>
                         <div class="content count-box">
                             <h2>
@@ -127,7 +142,7 @@
                             <h2>Opportunities & <br> Importance of factory History</h2>
                         </div>
                         <div class="history-one-sec-date">
-                            <h3>1938 - 2020</h3>
+                            <h3>2019 - 2023</h3>
                         </div>
                         <div class="history-one-text">
                             <p>The job of keeping up with the ever-increasing flood of change and technological advancement

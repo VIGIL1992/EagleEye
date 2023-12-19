@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <script type="text/javascript">
-    </script>
-<meta http-equiv="content-type" content="text/html;" charset="utf-8">
-<title>Eagle Eye | Electrical Equipment & Tools</title>
-
-<!-- <base href="https://eagleeyeuae.com/" /> -->
-			<!-- <meta name="viewport" content="width=device-width, initial-scale=1" /> -->
-		<!-- <meta name="description" content="Welcome To Eagle Eye, Electrical Equipments and Tools" /> -->
-	<!-- <meta name="keywords" content="" /> -->
-		<!-- Facebook Open Graph -->
-	<!-- <meta property="og:title" content="Welcome To Eagle Eye, Electrical Equipments and Tools" /> -->
-	<!-- <meta property="og:description" content="Welcome To Eagle Eye, Electrical Equipments and Tools" /> -->
-	<!-- <meta property="og:image" content="#" /> -->
-	<!-- <meta property="og:type" content="article" /> -->
-	<!-- <meta property="og:url" content="https://eagleeyeuae.com/" /> -->
-
 
 <!-- Stylesheets -->
 <link href="css/bootstrap.css" rel="stylesheet">

@@ -19,7 +19,7 @@
                                 <div class="social_links_1">
                                     <a href="#"><i class="fab fa-facebook-square"></i></a>
                                     <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-dribbble"></i></a>
+                                    <!-- <a href="#"><i class="fab fa-linkdin"></i></a> -->
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>    
                             </div>
@@ -106,7 +106,7 @@
                 <div class="outer-container">
                     <div class="header-column">
                         <div class="logo-box">
-                            <div class="logo"><a href="index.html"><img src="images/logo.png" alt="" title=""></a></div>
+                            <div class="logo"><a href="index.php"><img src="images/logo.png" alt="" title=""></a></div>
                         </div>
                     </div>
                     <div class="header-column">

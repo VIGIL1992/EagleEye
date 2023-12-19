@@ -1301,7 +1301,15 @@
      background-size: cover;
  }
  
- .banner-section .swiper-slide:before {position: absolute;top: -260px;left: 207px;bottom: -260px;width: 250px;background: var(--thm-primary);opacity: 0.6;z-index: 0;content: "";transform: rotate(34deg);}
+ .banner-section .swiper-slide:before {
+    position: absolute;
+    top: -260px;left: 207px;
+    bottom: -260px;width: 250px;
+    background: var(--thm-primary);
+    opacity: 0.6;
+    z-index: 0;
+    content: "";
+    transform: rotate(34deg);}
  
  .banner-section .content-outer {
      position: relative;
@@ -2377,7 +2385,7 @@
      position: relative;
      display: block;
      text-align: center;
-     height: 300px;
+     height: 200px;
      padding: 38px 10px 36px;
      background-color: rgb( 255, 255, 255 );
      box-shadow: 0px 0px 51px 0px rgb( 0, 0, 0, .09 );
@@ -2394,7 +2402,7 @@
      /* color: var(--thm-primary); */
      font-weight: 700;
      margin: 0;
-     /* letter-spacing: 1px; */
+     letter-spacing: 0px;
      text-align: center;
  }
  
@@ -2446,7 +2454,8 @@
      background-color: rgb( 255, 255, 255 );
      box-shadow: 0px 0px 62px 0px rgb( 27, 31, 45, .05 );
      padding: 33px 30px 34px;
-     height: 350px;
+     height: 300px;
+     overflow: hidden;
  }
 
  .blog-one-meta li {
@@ -2475,6 +2484,18 @@
  .blog-one-text p {
      margin: 0;
      line-height: 25px;
+     overflow: hidden; /* Allow text to be scrolled if it exceeds the height */
+     max-height: 80%; /* Adjust the height to make space for the button */
+
+ }
+
+ .blog-one-button{
+    border-radius: 30px;
+    padding: 6px 12px;
+    display: block; /* Ensure the button is displayed as a block-level element */
+    margin-top: 10px; /* Add some top margin to separate it from the text */
+    
+
  }
  /*** 
  ====================================================================
@@ -2938,12 +2959,12 @@
      display: block;
      background: #f7f8f9;
      margin-left: -30px;
-     padding: 90px 70px 53px;
+     padding: 90px 30px 53px;
  }
  .most-trusted-skill {
      position: relative;
      display: block;
-     padding-left: 100px;
+     padding-left: 30px;
      margin-bottom: 45px;
  }
  .most-trusted-skill-icon {

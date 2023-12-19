@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript">
+    </script>
+<meta http-equiv="content-type" content="text/html;" charset="utf-8">
+<title>Contact Us |  Eagle Eye | Electrical Equipment & Tools | Get electrical equipment and Tools for cheap price from Eagle Eye</title>
+
+<meta name="twitter:title" content="Eagle Eye - Middleast largest distributor of electrical goods">
+
 <?php
     include 'includes/header.php'; 
     include 'includes/navbar.php'; 
@@ -8,7 +18,7 @@
         <div class="container">
             <h2>Contact</h2>
             <ul class="thm-breadcrumb">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><span>></span></li>
                 <li><span>Contact</span></li>
             </ul>

@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script type="text/javascript">
+    </script>
+<meta http-equiv="content-type" content="text/html;" charset="utf-8">
+<title>Eagle Eye | Electrical Equipment & Tools | Get electrical equipment and Tools for cheap price from Eagle Eye</title>
+
+<meta name="twitter:title" content="Eagle Eye - Middleast largest distributor of electrical goods">
+
 <?php
     include 'includes/header.php'; 
     include 'includes/navbar.php'; 
@@ -8,7 +18,7 @@
         <div class="swiper-container banner-slider">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
-                <div class="swiper-slide" style="background-image: url(images/main-slider/bck.png);">
+                <div class="swiper-slide" style="background-image: url(images/main-slider/bck.jpg);">
                     <div class="content-outer">
                         <div class="content-box">
                             <div class="inner">
@@ -45,59 +55,11 @@
         </div>
         <div class="banner-shape__left_1"></div>
         <div class="banner-shape__left_2"></div>
-        <div class="banner-big-title" data-parallax='{"x": 200}'>Company</div>
+        <div class="banner-big-title" data-parallax='{"x": 200}'>Eagle Eye</div>
 
     </section>
     <!-- End Bnner Section -->
     
-    <!-- Start Features Two Section -->    
-    <!-- <section class="features-two-section"> -->
-        <!-- <div class="container">
-            <div class="row">
-                <div class="col-lg-3 col-md-6"> -->
-                    <!--Features One Sec Single-->
-                    <!-- <div class="features-two-sec-single wow fadeInUp" data-wow-delay="300ms">
-                        <div class="features-two-sec-icon">
-                            <span class="flaticon-robotic"></span>
-                        </div>
-                        <h3>Sustainability and <br> Responsible</h3>
-                        <p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6"> -->
-                    <!--Features One Sec Single-->
-                    <!-- <div class="features-two-sec-single active wow fadeInUp" data-wow-delay="600ms">
-                        <div class="features-two-sec-icon">
-                            <span class="flaticon-development"></span>
-                        </div>
-                        <h3>Knowledge and <br> Experience Team</h3>
-                        <p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6"> -->
-                    <!--Features One Sec Single-->
-                    <!-- <div class="features-two-sec-single wow fadeInUp" data-wow-delay="900ms">
-                        <div class="features-two-sec-icon">
-                            <span class="flaticon-paint-roller"></span>
-                        </div>
-                        <h3>Choosing quality <br> Materials for use</h3>
-                        <p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6"> -->
-                    <!--Features One Sec Single-->
-                    <!-- <div class="features-two-sec-single wow fadeInUp" data-wow-delay="900ms">
-                        <div class="features-two-sec-icon">
-                            <span class="flaticon-team"></span>
-                        </div>
-                        <h3>Provide Timely <br> Responses</h3>
-                        <p>Lorem ipsum dolor amet consectetur adipisicing elit sed eiusmod tempor.</p>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-    <!-- </section> -->
-    <!-- End Features Two Section -->   
     
     <!-- Start About Two Section --> 
     <section class="about-tow-section about-page">
@@ -120,6 +82,8 @@
                             <p class="about-two-title-text">Eagle Eye is one of the Leading Trading companies established in 2019, supplying various 
                                 Electrical Equipment, Tools and different other Accessories. We carry a wide range of quality materials to meet 
                                 industry requirements. </p>
+
+                                
                         </div>
                         <div class="row">
                             <div class="col-md-6">
@@ -128,7 +92,7 @@
                                         <span class="flaticon-check"></span>
                                     </div>
                                     <div class="about-tow-experience-years-text">
-                                        <h2>100% Client <br> Satisfaction </h2>
+                                        <h2>100% Branded <br> Products </h2>
                                     </div>
                                 </div>
                             </div>
@@ -138,18 +102,13 @@
                                         <span class="flaticon-check"></span>
                                     </div>
                                     <div class="about-tow-experience-years-text">
-                                        <h2>World Class <br> Worker</h2>
+                                        <h2>High Quality <br> Product</h2>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         
-                        <!-- <div class="about-two-bottom-content">
-                            <h3>John Franclin - <span>CEO & Founder</span></h3>
-                            <div class="signature">
-                                <img src="images/about/signature-1.png" alt="">
-                            </div>
-                        </div> -->
+                        
                     </div>
                 </div>
             </div>
@@ -165,7 +124,7 @@
                     <!--Funfacts One Single-->
                     <div class="funfacts-one-single wow fadeInUp" data-wow-delay="100ms">
                         <div class="icon">
-                            <span class="flaticon-like"></span>
+                            <span class="far fa-plug"></span>
                         </div>
                         <div class="content count-box">
                             <h2>
@@ -179,7 +138,7 @@
                     <!--Funfacts One Single-->
                     <div class="funfacts-one-single wow fadeInUp" data-wow-delay="200ms">
                         <div class="icon">
-                            <span class="flaticon-architect"></span>
+                            <span class="far fa-smile"></span>
                         </div>
                         <div class="content count-box">
                             <h2>
@@ -193,7 +152,7 @@
                     <!--Funfacts One Single-->
                     <div class="funfacts-one-single wow fadeInUp" data-wow-delay="300ms">
                         <div class="icon">
-                            <span class="flaticon-medal"></span>
+                            <span class="far fa-user-tie"></span>
                         </div>
                         <div class="content count-box">
                             <h2>
@@ -209,7 +168,7 @@
     <!--End Funfacts One Section -->  
 
     
-    <!--Start Team One Section -->   
+    <!--Start Product Section -->   
     <section class="team-one-section two">
         <div class="container">
             <div class="thm-section-title text-center">
@@ -234,7 +193,7 @@
                         <div class="team-one-content">
                             <h3>PCE Industrial Socket</h3>
                             <p>Industrial and multiphase plugs and sockets provide a connection to the electrical mains 
-                                rated at higher voltages and currents than household plugs and sockets. </p>
+                                rated at higher voltages and currents. </p>
                         </div>
                     </div>
                 </div>
@@ -242,10 +201,10 @@
                     <!--Team One Single-->
                     <div class="team-one-single wow fadeInLeft" data-wow-delay="200ms">
                         <div class="team-one-img">
-                            <img src="images/product/product_2.png" alt="">
+                            <img src="images/product/product_2.PNG" alt="">
                             <div class="team-one-hover">
                                 <div class="team-one-social">
-                                    <a href="images/product/product_2.png" class="img-popup"><i class="fa fa-eye"></i></a>
+                                    <a href="images/product/product_2.PNG" class="img-popup"><i class="fa fa-eye"></i></a>
                                     <a href=""><i class="fa fa-file-pdf"></i></a>
                                     <!-- <a href="path/to/your-pdf-file.pdf" download="your-file-name.pdf"><i class="fa fa-file-pdf"></i></a> -->
                                 </div>
@@ -254,7 +213,7 @@
                         <div class="team-one-content">
                             <h3>Joint Kits</h3>
                             <p>Raychem developed highly specialized polymers for heat shrink joints suitable for plastic 
-                                and paper cables upto 36 kV. For transition joints, a special oil</p>
+                                and paper cables upto 36 kV.</p>
                         </div>
                     </div>
                 </div>
@@ -262,19 +221,19 @@
                     <!--Team One Single-->
                     <div class="team-one-single wow fadeInLeft" data-wow-delay="300ms">
                         <div class="team-one-img">
-                            <img src="images/product/product_3.png" alt="">
+                            <img src="images/product/product_3.PNG" alt="">
                             <div class="team-one-hover">
                                 <div class="team-one-social">
-                                    <a href="images/product/product_3.png" class="img-popup"><i class="fa fa-eye"></i></a>
+                                    <a href="images/product/product_3.PNG" class="img-popup"><i class="fa fa-eye"></i></a>
                                     <a href=""><i class="fa fa-file-pdf"></i></a>
                                     <!-- <a href="path/to/your-pdf-file.pdf" download="your-file-name.pdf"><i class="fa fa-file-pdf"></i></a> -->
                                 </div>
                             </div>
                         </div>
                         <div class="team-one-content">
-                            <h3>PVC Flexible Conduit</h3>
-                            <p>This conduit, when utilized with approved fittings, provides complete ground integrity. It is 
-                                specifically designed for use for machinery, air conditioning, heating applications and outdoor lighting.</p>
+                            <h3>PVC Flexible Conduit</h3></p>
+                            <p>This durable, breathable material is beneficial in mailing and hardware uses because it creates a reusable bag 
+                                that the consumer can use. </p>
                         </div>
                     </div>
                 </div>
@@ -282,10 +241,10 @@
                     <!--Team One Single-->
                     <div class="team-one-single wow fadeInLeft" data-wow-delay="400ms">
                         <div class="team-one-img">
-                            <img src="images/product/product_4.png" alt="">
+                            <img src="images/product/product_4.PNG" alt="">
                             <div class="team-one-hover">
                                 <div class="team-one-social">
-                                    <a href="images/product/product_4.png" class="img-popup"><i class="fa fa-eye"></i></a>
+                                    <a href="images/product/product_4.PNG" class="img-popup"><i class="fa fa-eye"></i></a>
                                     <a href=""><i class="fa fa-file-pdf"></i></a>
                                     <!-- <a href="path/to/your-pdf-file.pdf" download="your-file-name.pdf"><i class="fa fa-file-pdf"></i></a> -->
                                 </div>
@@ -294,7 +253,7 @@
                         <div class="team-one-content">
                             <h3>Cotton bags</h3>
                             <p>This durable, breathable material is beneficial in mailing and hardware uses because it creates a reusable bag 
-                                that the consumer can continue to use after they initially open it in their workplace or home. </p>
+                                that the consumer can use. </p>
                         </div>
                     </div>
                 </div>
@@ -307,326 +266,51 @@
             </div>
         </div>
     </section>
-    <!--End Team One Section --> 
+    <!--End Product Section --> 
     
     <!--Start Why Choose Two Section --> 
-    <!-- <section class="why-choose-two-section"> -->
-        <!-- <div class="container">
+    <section class="why-choose-two-section">
+        <div class="container">
            <div class="thm-section-title text-center">
-                <h4 class="sub-title-shape-left section_title-subheading">Our Skills</h4>
-                <h2>We are Committed to <br> Continuous Improvement</h2>
+                <h4 class="sub-title-shape-left section_title-subheading">Our Promise</h4>
+                <h2>We are Committed to <br> Give High Quality Goods</h2>
            </div>
             <div class="row">
                 <div class="col-xl-6">
                     <div class="why-choose-two-image">
-                        <img src="images/resource/why-choose-2-img-1.jpg" alt="">
+                        <img src="images/resource/his.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-xl-6">
                     <div class="why-choose-right-content">
                         <div class="most-trusted-skill">
-                            <div class="most-trusted-skill-icon">
+                            <!-- <div class="most-trusted-skill-icon">
                                 <span class="flaticon-badge"></span>
-                            </div>
+                            </div> -->
                             <div class="most-trusted-text">
-                                <h3>Most Trusted <br> & Certified Skills</h3>
-                                <p>Lorem ipsum dolor amet <br> consectetur adipisicing elit <br> sed eiusmod tempor.</p>
+                                <h3>Most Trusted & Certified Brands</h3>
+                                <p>At Our Company, we prioritize delivering top-notch electrical goods that meet the 
+                                    highest standards of quality and reliability. Our commitment lies in providing a 
+                                    wide range of premium products, meticulously crafted and rigorously tested to ensure 
+                                    customer satisfaction. With a focus on innovation and excellence, we strive to exceed 
+                                    expectations and deliver exceptional electrical solutions to our clients.</p>
+                                    <br>
+                                    <p>Our dedication to excellence extends beyond providing superior electrical goods. 
+                                        We aim to forge lasting relationships with our customers, offering comprehensive 
+                                        support and guidance throughout their journey. Our team of experts is committed to 
+                                        understanding your unique needs, providing tailored solutions, and ensuring 
+                                        seamless experiences from purchase to after-sales service. </p>
+
                             </div>
                         </div>
-                        <div class="progress-levels"> -->
-                            <!--Skill Box-->
-                            <!-- <div class="progress-box">
-                                <div class="inner count-box">
-                                    <div class="text">Mechanical</div>
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="skill-percent">
-                                                <span class="count-text" data-speed="3000" data-stop="90">0</span>
-                                                <span class="percent">%</span>
-                                            </div>
-                                            <div class="bar-fill" data-percent="90"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!--Skill Box-->
-                            <!-- <div class="progress-box">
-                                <div class="inner count-box">
-                                    <div class="text">Agriculture</div>
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="skill-percent">
-                                                <span class="count-text" data-speed="3000" data-stop="80">0</span>
-                                                <span class="percent">%</span>
-                                            </div>
-                                            <div class="bar-fill" data-percent="80"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
-                            <!--Skill Box-->
-                            <!-- <div class="progress-box">
-                                <div class="inner count-box">
-                                    <div class="text">Chemical</div>
-                                    <div class="bar">
-                                        <div class="bar-innner">
-                                            <div class="skill-percent">
-                                                <span class="count-text" data-speed="3000" data-stop="85">0</span>
-                                                <span class="percent">%</span>
-                                            </div>
-                                            <div class="bar-fill" data-percent="85"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
-        </div> -->
-    <!-- </section> -->
+        </div> 
+    </section>
     <!--End Why Choose Two Section -->
-    
-    <!--Start video Two Section --> 
-    <!-- <section class="video-two-section" style="background-image: url(images/background/video-sec-two-bg.jpg)">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="video-two-sec-inner">
-                        <div class="video-two-sec-icon">
-                            <a href="https://www.youtube.com/watch?v=i9E_Blai8vk" class="video-two-sec-btn video-popup"><i class="fa fa-play"></i></a>
-                        </div>
-                        <div class="video-two-sec-content">
-                            <h2>We offer best <span>industrial services.</span> <br> 25+ years of experience</h2>
-                            <p>Manufacturing Technology Supports Factories around </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--End video Two Section --> 
-    
-    <!--Start Latest Projects One Section -->
-    <!-- <section class="latest-projects-one-section">
-       <div class="latest-projects-one-bg" style="background-image: url(images/background/project-1-bg.png)"></div>
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-4">
-                    <div class="latest-pro-one-title">
-                        <h4 class="sub-title-shape-left section_title-subheading">Industrial Sector</h4>
-                        <h2>Our Industry Competence</h2>
-                        <p>Manufacturing Technology Supports Factories around the World. Factories are at the heart of manufacturing.</p>
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="latest-pro-one-single">
-                        <div class="latest-pro-one-img-box">
-                            <img src="images/project/project-1-img-1.jpg" alt="">
-                            <div class="latest-pro-one-img-title">
-                                <div class="content"><h5><a href="#">Metal & Materials</a></h5></div>
-                                <div class="icon"><a class="img-popup" href="images/project/project-1-img-1.jpg"><span class="flaticon-plus"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-4">
-                    <div class="latest-pro-one-single">
-                        <div class="latest-pro-one-img-box">
-                            <img src="images/project/project-1-img-2.jpg" alt="">
-                            <div class="latest-pro-one-img-title">
-                                <div class="content"><h5><a href="#">Welding Industry</a></h5></div>
-                                <div class="icon"><a class="img-popup" href="images/project/project-1-img-1.jpg"><span class="flaticon-plus"></span></a></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!--Start Latest Projects One Section -->
-       
-    <!--Start Testimonials One Section --> 
-    <!-- <section class="testimonials-one-section two" style="background-image: url(images/background/video-sec-two-bg.jpg)"> -->
-        <!-- <div class="container">
-            <div class="thm-section-title text-center">
-                <h4 class="sub-title-shape-left section_title-subheading">Testimonials</h4>
-                <h2>We are Trusted <br>
-                25 Countries Worldwide</h2>
-           </div>
-           <div class="row">
-               <div class="col-xl-12">
-                   <div class="testimonials-one-carousel owl-theme owl-carousel"> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-1.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>Jack Farnes</h3>
-                                   <h6>Developer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-2.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>John Pedlock</h3>
-                                   <h6>Designer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-3.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>Mark Joseph</h3>
-                                   <h6>Developer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-1.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>Jack Farnes</h3>
-                                   <h6>Developer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-2.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>John Pedlock</h3>
-                                   <h6>Designer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-3.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>Mark Joseph</h3>
-                                   <h6>Developer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-1.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>Jack Farnes</h3>
-                                   <h6>Developer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-2.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>John Pedlock</h3>
-                                   <h6>Designer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div> -->
-                        <!--Testimonials One Single-->
-                       <!-- <div class="testimonials-one-single">
-                           <div class="client-info">
-                               <div class="client-img">
-                                   <img src="images/testimonial/testi-img-3.png" alt="">
-                               </div>
-                               <div class="client-content">
-                                   <h3>Mark Joseph</h3>
-                                   <h6>Developer</h6>
-                               </div>
-                           </div>
-                           <div class="text-box">
-                               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices </p>
-                           </div>
-                           <div class="testimonials-quote">
-                               <i class="fa fa-quote-left"></i>
-                           </div>
-                       </div>
-                   </div>
-               </div>
-           </div>
-        </div> -->
-    <!-- </section> -->
-    <!--End Testimonials One Section --> 
-       
-    
+   
     
         
 <?php
