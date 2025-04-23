@@ -29,11 +29,11 @@
     <section class="blog-one-section blog-page">
         <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="100ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_1.jpeg" alt="">
+                            <img src="images/product/product_01.jpeg" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -52,11 +52,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="200ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_2.PNG" alt="">
+                            <img src="images/product/product_02.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -74,11 +74,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="300ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_3.PNG" alt="">
+                            <img src="images/product/product_03.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -96,19 +96,21 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <!-- <div class="col-xl-4 col-lg-6">
+                    Product One Single
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="400ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_4.PNG" alt="">
+                            <img src="images/product/product_04.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
-                                <h3><a href="#">Cotton bags</a></h3>
+                                <h3><a href="#">Cotton Bags</a></h3>
                             </div>
                             <div class="blog-one-text">
                                 <p>This durable, breathable material is beneficial in mailing and hardware uses because it creates a reusable bag 
-                                that the consumer can continue to use after they initially open it in their workplace or home.</p>
+                                that the consumer can continue to use after they initially open it in their workplace or home.
+                                </p>
+                                <br>
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center ">
@@ -117,12 +119,12 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                </div> -->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="500ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_5.PNG" alt="">
+                            <img src="images/product/product_05.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -131,7 +133,9 @@
                             <div class="blog-one-text">
                                 <p>A cable pulling lubricant is a specialty product designed to reduce the friction of a cable while pulling 
                                     into a conduit. The friction reduction lowers the force required to pull the cable into the conduit. This 
-                                    reduces the tens.</p>
+                                    reduces the tens.
+                                </p>
+                                <br>
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center ">
@@ -141,11 +145,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="600ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_6.PNG" alt="">
+                            <img src="images/product/product_06.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -164,11 +168,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="700ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_7.jpg" alt="">
+                            <img src="images/product/product_07.jpg" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -177,7 +181,9 @@
                             <div class="blog-one-text">
                                 <p>Cable ties and fixing elements are used in many industries: for electrical installation, harness making, in the 
                                     construction industry, for preliminary installation purposes, in the packaging industry or under extreme 
-                                    environmental conditions like offshore oil</p>
+                                    environmental conditions like offshore oil
+                                </p>
+                                
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center ">
@@ -187,11 +193,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="800ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_8.PNG" alt="">
+                            <img src="images/product/product_08.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -199,7 +205,9 @@
                             </div>
                             <div class="blog-one-text">
                                 <p>Cable tie mounts attach to walls, ceilings, and other surfaces and are used with a cable tie to secure 
-                                    a bundle of wire or cable. They keep the bundles organized and out of the way.</p><br>
+                                    a bundle of wire or cable. They keep the bundles organized and out of the way.
+                                </p>
+                                <br><br>
                             </div>
                             <div class="row">
                                 <div class="col-md-12 text-center ">
@@ -209,11 +217,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
-                            <img src="images/product/product_9.PNG" alt="">
+                            <img src="images/product/product_09.PNG" alt="">
                         </div>
                         <div class="blog-one-content">
                             <div class="blog-one-title">
@@ -233,8 +241,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_10.PNG" alt="">
@@ -257,8 +265,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_11.PNG" alt="">
@@ -281,8 +289,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_12.PNG" alt="">
@@ -305,8 +313,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_13.PNG" alt="">
@@ -329,8 +337,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_14.PNG" alt="">
@@ -353,8 +361,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_15.PNG" alt="">
@@ -377,8 +385,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_16.PNG" alt="">
@@ -401,8 +409,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_17.PNG" alt="">
@@ -425,8 +433,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_18.PNG" alt="">
@@ -449,8 +457,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_19.PNG" alt="">
@@ -473,8 +481,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_20.PNG" alt="">
@@ -497,8 +505,8 @@
                     </div>
                 </div>
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_21.PNG" alt="">
@@ -522,8 +530,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_22.PNG" alt="">
@@ -547,8 +555,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_23.PNG" alt="">
@@ -572,8 +580,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_24.PNG" alt="">
@@ -597,8 +605,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_25.PNG" alt="">
@@ -622,8 +630,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_26.PNG" alt="">
@@ -647,8 +655,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_27.PNG" alt="">
@@ -672,8 +680,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_28.PNG" alt="">
@@ -697,8 +705,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_29.PNG" alt="">
@@ -722,8 +730,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_30.PNG" alt="">
@@ -747,8 +755,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_31.PNG" alt="">
@@ -772,8 +780,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_32.PNG" alt="">
@@ -797,8 +805,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_33.PNG" alt="">
@@ -822,8 +830,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_34.PNG" alt="">
@@ -847,8 +855,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_35.PNG" alt="">
@@ -872,8 +880,8 @@
                 </div>
 
 
-                <div class="col-xl-4 col-lg-4">
-                    <!--Blog One Single-->
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
                     <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
                         <div class="blog-one-img">
                             <img src="images/product/product_36.PNG" alt="">
@@ -896,9 +904,389 @@
                     </div>
                 </div>
 
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_37.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">PULLING SPRING TWISTED TYPE</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_38.avif" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">WALL PLUG</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_39.avif" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">CONTROL BOX</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_40.webp" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">CRIMPING TOOL</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_41.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">FLOATING SWITCH</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_42.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">HT BOX</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_43.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">WATER PROOF SOCKET</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_44.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">WEATHER PROOF BOX</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_45.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">CABLE CLIPS</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_46.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">FLOOR BOX</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_47.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">ALUMINUM JUNCTION BOX</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_48.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">METAL CLAD BOX</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_49.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">GROMMET</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_50.png" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">LIGHT STAND</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_51.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">FUSE</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4 col-lg-6">
+                    <!--Product One Single-->
+                    <div class="blog-one-single wow fadeInUp" data-wow-delay="900ms">
+                        <div class="blog-one-img">
+                            <img src="images/product/product_52.jpg" alt="">
+                        </div>
+                        <div class="blog-one-content">
+                            <div class="blog-one-title">
+                                <h3><a href="#">Masking Tapes</a></h3>
+                            </div>
+                            <div class="blog-one-text">
+                                <p>Spiral wrapping bands are perfect for organizing and protecting your wiring and cables. 
+                                    It helps eliminate accidents that can be caused by loose cords and provides a neat 
+                                    appearance for any entertainment system or office setting.</p>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-12 text-center ">
+                                    <a href="documents/eagle eye.pdf" class="theme-btn blog-one-button" download="eagle eye.pdf"><i class="far fa-file-pdf"></i> Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
             </div>

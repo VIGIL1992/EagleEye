@@ -107,7 +107,8 @@
                 <div class="col-xl-12">
                     <div class="footer-bottom">
                     <p class="text-center">Copyright <i class="far fa-copyright"></i> <script>document.write(new Date().getFullYear());</script> All rights reserved | 
-                    Made with <i class="far fa-heart"></i> by <a href="http://www.pixellmedia.com/" target="_blank" style="color: #b052be;">PixellMedia</a></p>
+                        Made with <i class="far fa-heart"></i> by <a href="http://www.pixellmedia.com/" target="_blank" style="color: #b052be;">PixellMedia</a>
+                    </p>
                     </div>
                 </div>
             </div>

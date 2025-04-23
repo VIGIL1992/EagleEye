@@ -3,10 +3,10 @@
 <head>
     <script type="text/javascript">
     </script>
-<meta http-equiv="content-type" content="text/html;" charset="utf-8">
-<title>About Us |  Eagle Eye | Electrical Equipment & Tools | Get electrical equipment and Tools for cheap price from Eagle Eye</title>
+    <meta http-equiv="content-type" content="text/html;" charset="utf-8">
+    <title>About Us |  Eagle Eye | Electrical Equipment & Tools | Get electrical equipment and Tools for cheap price from Eagle Eye</title>
 
-<meta name="twitter:title" content="Eagle Eye - Middleast largest distributor of electrical goods">
+    <meta name="twitter:title" content="Eagle Eye - Middleast largest distributor of electrical goods">
 
 <?php
     include 'includes/header.php'; 
